@@ -1,0 +1,23 @@
+html { 
+  background: url(eso1208a.jpg) no-repeat center fixed; 
+  background-size: cover;
+  background-color: black;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+#credit {
+	position: absolute;
+	bottom: 0;
+	padding: 10px;
+	background-color: rgba(0, 0, 0, 0.7);
+	font-family: sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
